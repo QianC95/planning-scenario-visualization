@@ -1,0 +1,12 @@
+model,clip_existence,delta_clip_existence,clip_physical_plausibility,delta_clip_physical_plausibility,clip_spatial_layout,delta_clip_spatial_layout,clip_spatial_intensity,delta_clip_spatial_intensity
+piti,23.003,,22.523,,22.486,,22.158,
+t2i_adapter_guide,28.516,,27.394,,26.939,,26.079,
+t2i_adapter_preserve,27.938,3.167,26.299,2.990,27.290,2.097,27.290,2.097
+instruct_pix2pix,30.854,6.083,29.385,6.077,31.086,5.892,30.899,5.907
+diffedit,31.130,6.359,30.246,6.937,31.248,6.055,30.264,5.272
+nano_banana,32.986,8.215,31.637,8.328,33.164,7.971,32.840,7.847
+controlnet_seg,29.839,5.068,28.666,5.357,29.948,4.755,29.764,4.772
+controlnet_scribble,28.965,4.194,28.190,4.881,28.492,3.299,28.836,3.844
+controlnet_canny,28.478,3.707,27.628,4.319,28.146,2.952,28.666,3.674
+controlnet_canny_scribble,28.208,3.437,27.303,3.994,27.852,2.659,28.380,3.388
+controlnet_canny_finetuned,31.822,7.051,31.044,7.735,31.656,6.463,31.701,6.709

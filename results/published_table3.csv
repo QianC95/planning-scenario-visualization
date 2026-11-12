@@ -1,0 +1,12 @@
+model,clip_model_specific,delta_clip_model_specific,lpips,fid,kid
+piti,23.509,,0.539,111.616,0.055
+t2i_adapter_guide,29.977,,0.794,293.284,0.314
+t2i_adapter_preserve,29.424,6.706,0.725,174.295,0.122
+instruct_pix2pix,29.214,4.872,0.652,178.974,0.116
+diffedit,27.717,5.521,0.607,151.966,0.108
+nano_banana,30.864,8.567,0.582,152.976,0.125
+controlnet_seg,33.926,10.843,0.752,305.155,0.332
+controlnet_scribble,32.134,9.051,0.598,108.521,0.057
+controlnet_canny,31.780,8.698,0.602,114.207,0.060
+controlnet_canny_scribble,32.181,9.099,0.617,132.661,0.080
+controlnet_canny_finetuned,33.525,10.442,0.598,110.400,0.071

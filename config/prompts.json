@@ -1,0 +1,28 @@
+{
+  "model_specific": {
+    "piti": [
+      "Landscape with a solar panel installation.",
+      "Rural street view with utility-scale solar panel manufacturers.",
+      "Landscape with solar panel arrays.",
+      "Photorealistic scene showing large solar panel arrays installed on the ground, open landscape.",
+      "ground with solar panel arrays"
+    ],
+    "t2i_adapter_guide": ["Landscape with a solar panel installation."],
+    "t2i_adapter_preserve": ["Landscape with a solar panel installation."],
+    "instruct_pix2pix": ["Rural street view with utility-scale solar panel manufacturers."],
+    "diffedit": ["ground with solar panel arrays"],
+    "nano_banana": ["Landscape with solar panel arrays."],
+    "controlnet_seg": ["Photorealistic scene showing large solar panel arrays installed on the ground, open landscape."],
+    "controlnet_scribble": ["Photorealistic scene showing large solar panel arrays installed on the ground, open landscape."],
+    "controlnet_canny": ["Photorealistic scene showing large solar panel arrays installed on the ground, open landscape."],
+    "controlnet_canny_scribble": ["Photorealistic scene showing large solar panel arrays installed on the ground, open landscape."],
+    "controlnet_canny_finetuned": ["Photorealistic scene showing large solar panel arrays installed on the ground, open landscape."]
+  },
+  "planning": {
+    "existence": "Street-view landscape with utility-scale solar panel arrays.",
+    "physical_plausibility": "Street-view landscape with solar panel arrays mounted on racking systems at ground level.",
+    "spatial_layout": "Street-view landscape showing orderly rows of utility-scale solar panel arrays.",
+    "spatial_intensity": "Street-view landscape showing a large utility-scale solar farm with densely arranged solar panel arrays in orderly rows."
+  },
+  "no_prior_image": ["piti", "t2i_adapter_guide"]
+}
